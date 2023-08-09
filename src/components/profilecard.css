@@ -1,0 +1,15 @@
+.pcard {
+    width: 600px;
+    background-color: #f8f8f8;
+    margin: auto;
+    margin-top: 30px;
+  }
+  
+  .ptitle {
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .ptext {
+    margin-bottom: 8px;
+  }
