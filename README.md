@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Property/Rental management frontend mock up system
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -14,57 +14,29 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+# Prerequisites
+- Ensure that you have java installed and its environment set up correctly
+- Clone the following repository
+  ```
+  ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Project flow and Images
 
-### `npm run build`
+#### The following is a list of clients and a modal to add a new client.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="906" alt="Screenshot (94)" src="https://github.com/ochudidesterio/property-management-frontend-mockup/assets/45032910/22dbb599-d95e-4bb6-89ec-abadddf20763">
+<img width="918" alt="Screenshot (95)" src="https://github.com/ochudidesterio/property-management-frontend-mockup/assets/45032910/c231d298-f919-45ee-b20a-b8e111d4ce22">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### When a single client in a row is clicked, it displays all the properties/ apartments that belong to that client. The following are properties/apartments for a single client with a modal to add a property.
+  
 
-### `npm run eject`
+<img width="900" alt="Screenshot (96)" src="https://github.com/ochudidesterio/property-management-frontend-mockup/assets/45032910/b4980e2f-4895-4d7a-a369-d80bbce33c39">
+<img width="914" alt="Screenshot (97)" src="https://github.com/ochudidesterio/property-management-frontend-mockup/assets/45032910/5171ee2c-6010-4e3d-8bb5-6e8689e92129">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### When a sigle apartment in a row is clicked, it shows all the rooms/houses that belong to it clearly indicating whether its vacant or Taken. If its vacant, an option to add a tenant is available for agents to add a tenant to it as shown in the following images:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="902" alt="Screenshot (98)" src="https://github.com/ochudidesterio/property-management-frontend-mockup/assets/45032910/02c380f9-cbe8-458e-a2bb-b1e5e99b61bc">
+<img width="912" alt="Screenshot (99)" src="https://github.com/ochudidesterio/property-management-frontend-mockup/assets/45032910/00dcec28-9d8c-4c94-8ba9-be17b110c5c3">
+<img width="911" alt="Screenshot (100)" src="https://github.com/ochudidesterio/property-management-frontend-mockup/assets/45032910/2ade9caf-cbd5-41f2-955c-4ef97a6b535c">
