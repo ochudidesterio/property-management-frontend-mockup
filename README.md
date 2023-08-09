@@ -16,9 +16,21 @@ You may also see any lint errors in the console.
 
 # Prerequisites
 - Ensure that you have java installed and its environment set up correctly
+- Ensure you have mysql installed
 - Clone the following repository
+  ```git
+  https://github.com/ochudidesterio/property-management-backend.git
   ```
-  ```
+-Run
+```java
+mvn clean verify
+```
+```java
+mvn clean install
+```
+```java
+java -jar path/to/file.jar
+```
 
 ## Project flow and Images
 
